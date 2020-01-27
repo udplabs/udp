@@ -1,5 +1,5 @@
 # Unified Demo Platform 
-Unified Demo Platform public repo for Feature Request, Bugs and more. This repo represents a place collaborate and coorindate request from Okta UDP users.
+Unified Demo Platform public repo for Feature Request, Bugs and more. This repo represents a place to collaborate and coorindate request from Okta UDP users and engineers of UDP. :tada:
 
 ## Table of Content
 
