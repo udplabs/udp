@@ -9,11 +9,9 @@ Unified Demo Platform public repo for Feature Request, Bugs and more. This repo 
 ## Submit a Bug
 
 1. Start [here](https://github.com/udplabs/udp/issues).
-2. Click on `New Issue`.
-3. Details steps of bug with screen shots if possible.
+2. Click on `New Issue` and select `Bug Report`.
 
 ## Submit a Feature Request
 
 1. Start [here](https://github.com/udplabs/udp/issues).
-2. Click on `New Issue`.
-2. Details description of the feature that you are requesting.
+2. Click on `New Issue` and select `Feature Request`.
